@@ -1,0 +1,56 @@
+
+############################### Agent Definitions ###############################
+
+Alice, a devoted mother of two, believes strongly in natural remedies and is hesitant about vaccinating her children for measles. She is well-informed about the potential risks associated with vaccines and is passionate about ensuring her children's health and safety.
+Bob, a young father of two, is a passionate advocate for natural remedies and alternative medicine. He values personal freedom and autonomy over government mandates and struggles with the decision to vaccinate his children for measles. Bob is open-minded and willing to listen to other perspectives, but he firmly stands by his beliefs.
+Charlie, a first-time father, is passionate about natural remedies and skeptical of mainstream medicine. He is hesitant about vaccinating his child and believes in the body's natural ability to build immunity.
+
+
+################################ Agent Dialogue #################################
+Bob: Thank you for having me here. As a father, I understand the importance of keeping my children healthy and safe. However, I firmly believe in personal freedom and autonomy when it comes to medical decisions for my family. I have done extensive research on the potential risks and benefits of vaccinating for measles and have come to the conclusion that it is not necessary for my children. 
+
+I understand that some may argue that vaccinating for measles is necessary to protect not only my own children but also the community as a whole. However, I believe that natural immunity is just as effective and safer than relying on vaccines. 
+
+Furthermore, I am concerned about the potential side effects of vaccines, including autism and other neurological disorders. While some may argue that there is no scientific evidence linking vaccines to these conditions, I believe that there is enough anecdotal evidence to warrant caution. 
+
+In the end, I believe that it is my right as a parent to make the best decision for my children's health and well-being. I am open to hearing other perspectives, but I will not be swayed from my beliefs.
+
+Charlie: I understand your concerns, Bob, but I have a different perspective. As a first-time father, I am also concerned about my child's health and safety. However, I believe that vaccinating for measles is necessary to protect not only my child but also the community as a whole. 
+
+While natural immunity may be effective, it is not always reliable and can take longer to develop. Vaccines provide a quicker and more reliable way to build immunity. 
+
+As for the potential side effects of vaccines, I have done my own research and have found that the risks are minimal compared to the benefits. The link between vaccines and autism has been debunked by numerous scientific studies. 
+
+I also believe that as a member of a community, we have a responsibility to protect the most vulnerable among us, including those who cannot receive vaccines due to medical reasons. By vaccinating our children, we are helping to create herd immunity and protect those who cannot protect themselves. 
+
+In the end, I believe that the benefits of vaccinating for measles far outweigh the risks. It is our responsibility as parents to make informed decisions for our children's health and well-being, but we must also consider the impact of our decisions on the community as a whole.
+
+Alice: I appreciate both of your perspectives, but I have to say that I am hesitant about vaccinating my children for measles. As a devoted mother of two, I believe strongly in natural remedies and am concerned about the potential risks associated with vaccines. 
+
+While I understand the importance of protecting the community as a whole, I also believe that it is my right as a parent to make the best decision for my children's health and well-being. I have done extensive research on the potential risks and benefits of vaccinating for measles and have found that the risks may outweigh the benefits. 
+
+I am also concerned about the potential side effects of vaccines, including autoimmune disorders and other long-term health effects. While some may argue that the risks are minimal, I believe that we should err on the side of caution when it comes to our children's health. 
+
+In the end, I believe that it is up to each individual parent to make an informed decision about vaccinating for measles. We must weigh the potential risks and benefits and make the best decision for our own families.
+
+Bob: Thank you for sharing your perspective, Alice. I understand your concerns about the potential risks associated with vaccines. However, I believe that the risks of not vaccinating for measles are far greater. 
+
+Measles is a highly contagious disease that can lead to serious complications, including pneumonia, brain damage, and even death. While natural remedies may be effective in treating some illnesses, they are not always effective in preventing them. 
+
+I also want to address your concerns about the potential long-term health effects of vaccines. While there may be some risks associated with vaccines, the benefits far outweigh the risks. Vaccines have been proven to be safe and effective in preventing diseases that were once deadly. 
+
+Furthermore, I believe that we have a responsibility to protect the community as a whole. By vaccinating our children, we are not only protecting them but also those who cannot receive vaccines due to medical reasons. 
+
+In the end, I believe that vaccinating for measles is the responsible and ethical choice. We must consider not only our own children's health but also the health of the community as a whole.
+
+
+
+
+######################### Post Experiment Questionnaire #########################
+Alice: ['{"discourse_rating": 8}', '{"Alice_rating": 6}', '{"Bob_rating": 7}', '{"Charlie_rating": 7}'];Bob: ['{"discourse_rating": 7}', '{\n"Alice_rating": 7\n}', '{"Bob_rating": 7}', '{"Charlie_rating": 8}'];Charlie: ['{"discourse_rating": 8}', '{"Alice_rating": 8}', '{"Bob_rating": 7}', '{"Charlie_rating": 6}']
+
+
+##################################### Stats #####################################
+Number of Exchanges: 4
+
+Number of Words: 776

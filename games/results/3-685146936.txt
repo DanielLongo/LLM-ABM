@@ -1,0 +1,76 @@
+
+############################### Agent Definitions ###############################
+
+Alice: Mom of two. Strong believer in natural immunity and skeptical of vaccines. Interested in protecting her child's health but hesitant to vaccinate.
+Bob, a concerned parent, is passionate about science and has extensive knowledge of the benefits and risks of vaccinations.
+Charlie, a parent conflicted about vaccinating their child for measles, seeks counsel from others to make a decision.
+
+
+################################ Agent Dialogue #################################
+Bob: As a concerned parent, I strongly believe that vaccinating my child for measles is the responsible and necessary thing to do. The benefits of vaccination far outweigh any potential risks. Measles is a highly contagious and potentially deadly disease that can easily spread in unvaccinated communities. By vaccinating my child, not only am I protecting them from the disease, but I am also contributing to the overall health and safety of our community.
+
+I understand that there are concerns about the safety of vaccines, but the overwhelming scientific evidence supports their effectiveness and safety. The risks of not vaccinating far outweigh any potential risks associated with vaccination. It's important to trust in the scientific process and the rigorous testing that vaccines undergo before being approved for use.
+
+I urge my fellow negotiators to consider the well-being of our children and community and make the responsible choice to vaccinate for measles.
+
+Charlie: I appreciate your perspective, Bob, but I am still conflicted about vaccinating my child for measles. While I understand the potential benefits of vaccination, I am concerned about the potential risks and side effects.
+
+I have heard stories of children experiencing adverse reactions to vaccines, and it makes me hesitant to subject my child to that potential harm. Additionally, I am not convinced that the benefits of vaccination outweigh the risks, especially since measles is not as prevalent as it once was.
+
+I want to make the best decision for my child, but I am struggling to reconcile the potential risks and benefits of vaccination. Can you provide more information or evidence to support your argument?
+
+Alice: I understand your concerns, Charlie, as I too am hesitant to vaccinate my child for measles. As a strong believer in natural immunity, I worry about the potential long-term effects of vaccines on my child's health.
+
+While I appreciate the scientific evidence supporting the safety and effectiveness of vaccines, I also believe in the importance of individual choice and autonomy when it comes to healthcare decisions for our children.
+
+Furthermore, I believe that there are alternative ways to protect our children from measles, such as maintaining a healthy diet and lifestyle, practicing good hygiene, and avoiding contact with sick individuals.
+
+I urge my fellow negotiators to consider the importance of individual choice and the potential long-term effects of vaccines on our children's health. We should not be forced to make a decision that goes against our beliefs and values.
+
+Bob: I understand your concerns, Charlie and Alice, but I want to address some of the points you've made.
+
+Firstly, regarding the potential risks and side effects of vaccines, it's important to note that the vast majority of children who receive vaccines experience no serious side effects. The benefits of vaccination in preventing serious diseases far outweigh the risks of minor side effects.
+
+Secondly, while it's true that measles may not be as prevalent as it once was, it's still a highly contagious disease that can have serious consequences, including pneumonia, brain damage, and even death. Vaccination is the best way to protect our children and community from the spread of this disease.
+
+Lastly, while I respect the importance of individual choice and autonomy, we also have a responsibility to consider the impact of our decisions on others. Choosing not to vaccinate not only puts our own children at risk, but also those who cannot receive vaccines due to medical reasons or are too young to be vaccinated.
+
+In conclusion, I strongly believe that vaccinating for measles is the responsible and necessary choice to protect our children and community from the spread of this disease.
+
+Charlie: I appreciate your response, Bob. However, I still have concerns about the potential long-term effects of vaccines on my child's health. While it may be true that the majority of children experience no serious side effects, there is still a risk that my child could be one of the few who do.
+
+Additionally, I believe that maintaining a healthy lifestyle and practicing good hygiene can go a long way in preventing the spread of diseases like measles. While vaccination may be the most effective method, it is not the only one.
+
+I understand the importance of considering the impact of our decisions on others, but I also believe that individual choice and autonomy should be respected. We should not be forced to make a decision that goes against our beliefs and values.
+
+I urge my fellow negotiators to consider the potential risks and benefits of vaccination and to respect each other's choices and beliefs. We should work together to find a solution that prioritizes the health and well-being of our children and community.
+
+Alice: I completely agree with you, Charlie. It's important to consider all options and make a decision that aligns with our beliefs and values. While vaccination may be the most effective method, it's not the only one.
+
+I also want to emphasize the importance of informed consent when it comes to healthcare decisions for our children. We should have access to all the information and research available so that we can make an informed decision that is best for our child.
+
+In conclusion, I believe that we should respect each other's choices and beliefs while also prioritizing the health and well-being of our children and community. We should work together to find a solution that takes into account all options and respects individual choice and autonomy.
+
+Bob: I understand your concerns, Charlie and Alice, but I want to reiterate the importance of vaccination in preventing the spread of measles. While maintaining a healthy lifestyle and practicing good hygiene can certainly help, they are not foolproof methods of preventing the spread of disease.
+
+Furthermore, I want to emphasize the importance of trusting in the scientific process and the rigorous testing that vaccines undergo before being approved for use. The overwhelming scientific evidence supports the safety and effectiveness of vaccines, and we should not let fear and misinformation guide our decisions.
+
+In conclusion, I strongly believe that vaccinating for measles is the responsible and necessary choice to protect our children and community from the spread of this disease. We should prioritize the health and well-being of our children and community while also respecting individual choice and autonomy.
+
+Charlie: I understand your perspective, Bob, but I still have concerns about the potential risks and long-term effects of vaccines on my child's health. While I appreciate the scientific evidence supporting the safety and effectiveness of vaccines, I also believe in the importance of individual choice and autonomy when it comes to healthcare decisions for our children.
+
+I urge my fellow negotiators to consider the potential risks and benefits of vaccination and to respect each other's choices and beliefs. We should work together to find a solution that prioritizes the health and well-being of our children and community while also respecting individual choice and autonomy.
+
+We have reached a decision. We will each make the decision that aligns with our beliefs and values regarding vaccinating our children for measles. We will respect each other's choices and prioritize the health and well-being of our children and community.
+
+
+
+
+######################### Post Experiment Questionnaire #########################
+Alice: ['{"discourse_rating": 7}', '{"Alice_rating": 6}', '{"Bob_rating": 7}', '{\n"Charlie_rating": 8\n}'];Bob: ['{"discourse_rating": 8}', '{\n"Alice_rating": 8\n}', '{"Bob_rating": 8}', '{\n   "Charlie_rating": 7\n}'];Charlie: ['{"discourse_rating": 8}', '{\n"Alice_rating": 8\n}', '{"Bob_rating": 7}', '{"Charlie_rating": 8}']
+
+
+##################################### Stats #####################################
+Number of Exchanges: 8
+
+Number of Words: 1161

@@ -1,0 +1,61 @@
+
+    ############################### Agent Definitions ###############################
+
+    Alice, a cautious mother, prioritizes her child's safety and seeks factual information.
+Bob: Worried father of three children. Uncertain about vaccinating his youngest against measles.
+Charlie: loving parent, skeptical of vaccines, seeks thorough understanding before making decisions.
+    
+
+    ################################ Agent Dialogue #################################
+    Bob: I'm not sure if I should vaccinate my youngest child for measles. I've heard a lot of conflicting information about the safety and effectiveness of vaccines.
+
+Charlie: I understand your concerns, Bob. As a loving parent, I also want to make sure that I'm making the best decision for my child. However, I believe that the benefits of vaccinating for measles far outweigh any potential risks.
+
+Samantha: I disagree, Charlie. I think that vaccines can actually be harmful to children and that it's better to rely on natural immunity.
+
+Charlie: I understand where you're coming from, Samantha, but the evidence shows that vaccines are safe and effective. In fact, the measles vaccine has been proven to be 97% effective at preventing the disease.
+
+Bob: But what about the side effects? I've heard that vaccines can cause autism and other health problems.
+
+Charlie: That's actually a myth, Bob. There have been numerous studies that have debunked the link between vaccines and autism. In fact, the Centers for Disease Control and Prevention (CDC) has stated that there is no evidence to support this claim.
+
+Samantha: But what about all of the chemicals and preservatives in vaccines? Don't you think that's dangerous?
+
+Charlie: Actually, the amount of these substances in vaccines is very small and they have been thoroughly tested for safety. And let's not forget that the risks of not vaccinating are much greater than any potential risks associated with the vaccine. Measles is a highly contagious and potentially deadly disease, and by vaccinating our children, we are not only protecting them but also those around us who may not be able to receive the vaccine due to medical reasons.
+
+Bob: I see your point, Charlie. It's important to prioritize the health and safety of our children and those around us. I think I'll go ahead and vaccinate my child for measles.
+
+Samantha: I'm still not convinced, but I understand your perspective.
+
+Alice: As a cautious mother, I prioritize my child's safety and seek factual information. The fact is, vaccines have been proven to be safe and effective. In fact, the World Health Organization reports that the measles vaccine has prevented an estimated 21.1 million deaths worldwide since 2000. That's not a statistic to take lightly.
+
+Samantha, I understand your concern about chemicals and preservatives in vaccines, but the amount is minimal and the benefits of vaccinating far outweigh any potential risks. And Bob, I understand your concerns about conflicting information, but it's important to rely on credible sources such as the CDC and WHO for accurate information.
+
+At the end of the day, vaccinating our children not only protects them but also those around us who may not be able to receive the vaccine. It's a responsibility we have as members of a community to protect each other from preventable diseases.
+
+Bob: Thank you for bringing up those statistics, Alice. It's clear that vaccinating for measles is not only beneficial for my child but also for society as a whole. I appreciate everyone's input and I am now fully convinced that vaccinating my child for measles is the right decision.
+
+Charlie: I'm glad to hear that, Bob. It's important to make informed decisions based on facts and evidence. Thank you, everyone, for participating in this discussion and prioritizing the health and safety of our children and community.
+
+Alice: I'm glad we were able to come to a consensus on this issue. It's important to prioritize the health and safety of our children and community, and vaccinating for measles is a crucial part of that. Let's continue to rely on credible sources and make informed decisions for the well-being of all.
+
+Bob: I completely agree, Alice. Thank you all for helping me make this decision. I will be scheduling my child's measles vaccination as soon as possible.
+
+Charlie: I'm glad we were able to have a productive discussion and come to a consensus on this important issue. Let's continue to prioritize the health and safety of our children and community by staying informed and making responsible decisions.
+
+Alice: Yes, let's continue to make informed decisions and prioritize the well-being of our community. Thank you all for being open to discussing this issue and considering the facts.
+
+Bob: We have reached a decision. I will be vaccinating my child for measles to prioritize their health and the health of those around us. Thank you all for your input and helping me make an informed decision.
+
+
+    
+
+    ######################### Post Experiment Questionnaire #########################
+    Alice: ['{"discourse_rating": 8}', '{"Alice_rating": 7}', '{\n"Bob_rating": 5\n}', '{\n  "Charlie_rating": 7\n}'];Bob: ['{"discourse_rating": 8}', '{\n  "Alice_rating": 7\n}', '{"Bob_rating": 8}', '{\n    "Charlie_rating": 7\n}'];Charlie: ['{"discourse_rating": 8}', '{"Alice_rating": 7}', '{\n  "Bob_rating": 7\n}', '{"Charlie_rating": 7}']
+    
+
+    ##################################### Stats #####################################
+    Number of Exchanges: 10
+
+    Number of Words: 724
+    

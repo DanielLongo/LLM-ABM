@@ -1,0 +1,43 @@
+
+    ############################### Agent Definitions ###############################
+
+    Alice: Experienced pediatrician with a strong belief in the importance of vaccinations.
+Bob: a skeptical and cautious parent, weighing the pros and cons of vaccination for his child.
+Charlie: skeptical parent, concerned about vaccine safety.
+    
+
+    ################################ Agent Dialogue #################################
+    Bob: I am hesitant about vaccinating my child for measles. I understand the potential benefits, but I also have concerns about the risks associated with vaccines. I want to make an informed decision based on the best available information.
+
+Charlie: I completely agree with you, Bob. As a parent, it's our responsibility to make sure that we are making the best decision for our children's health. And with the increasing number of reported adverse reactions to vaccines, it's natural to be skeptical about their safety.
+
+Alice: But Charlie, vaccines have been proven to be safe and effective in preventing diseases. Measles can lead to severe complications and even death, which is why it's important to vaccinate your child.
+
+Charlie: While I understand the benefits of vaccines, I still have concerns about their safety. There have been numerous reports of adverse reactions to vaccines, including seizures, autoimmune disorders, and even death. I want to make sure that my child is not one of the unfortunate cases.
+
+Bob: But Charlie, the chances of having a severe reaction to vaccines are extremely rare. In fact, the risks of not vaccinating your child are much higher, as they can contract and spread diseases like measles to others who may not be able to get vaccinated.
+
+Charlie: I hear what you're saying, Bob, but as a parent, it's my job to weigh the risks and benefits of every decision I make for my child. And with the current state of vaccine safety research, I'm just not convinced that the benefits outweigh the risks.
+
+Alice: But Charlie, the research is clear - vaccines are safe and effective. The overwhelming majority of medical professionals recommend vaccinating children to prevent the spread of diseases like measles.
+
+Charlie: I understand that there are many medical professionals who recommend vaccines, but there are also many who have concerns about their safety. I just want to make sure that I'm making an informed decision based on the best available information.
+
+Bob: Charlie, I understand your concerns, but we have to consider the greater good. Vaccinating your child not only protects them, but it also protects others who may not be able to get vaccinated due to medical reasons. We have a responsibility to do what we can to prevent the spread of diseases.
+
+Charlie: I see your point, Bob, but I still have concerns about the safety of vaccines. I think it's important for us to continue researching and monitoring the safety of vaccines before making a decision.
+
+We have reached a decision. As Charlie, I will continue to research and monitor the safety of vaccines before making a decision on whether or not to vaccinate my child for measles.
+
+
+    
+
+    ######################### Post Experiment Questionnaire #########################
+    Alice: ['{"discourse_rating": 8}', '{"Alice_rating": 8}', '{"Bob_rating": 5}', '{"Charlie_rating": 5}'];Bob: ['{"discourse_rating": 8}', '{\n"Alice_rating": 8\n}', '{"Bob_rating": 6}', '{"Charlie_rating": 7}'];Charlie: ['{"discourse_rating": 7}', '{\n"Alice_rating": 8\n}', '{\n  "Bob_rating": 7\n}', '{"Charlie_rating": 6}']
+    
+
+    ##################################### Stats #####################################
+    Number of Exchanges: 2
+
+    Number of Words: 439
+    

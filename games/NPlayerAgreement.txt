@@ -1,0 +1,51 @@
+############################### Agent Definitions ###############################
+ Alice, a pediatrician, is fiercely passionate
+about the importance of vaccinating children. With years of experience working
+with families and children, she has seen firsthand the devastating effects of
+preventable diseases like measles. She is determined to convince her fellow
+negotiators of the urgency of this issue. Bob, a middle-aged father with two
+young children, is a no-nonsense businessman who values logic and tangible
+evidence. He is analytical and detail-oriented, preferring to focus on the facts
+rather than emotions. Bob is also protective of his family and wants to make the
+best decision for their health and well-being. Charlie, a dedicated parent and
+advocate for natural health remedies, strongly opposes vaccination and is adamant
+about not wanting to vaccinate their child for measles.
+################################ Agent Dialogue #################################
+Bob: I believe that vaccinating our children for measles is the responsible and
+logical choice. The evidence overwhelmingly supports the safety and effectiveness
+of vaccines in preventing the spread of diseases like measles. As a father, I
+want to protect my children and ensure their health and well-being. Refusing to
+vaccinate them puts not only them, but also others in our community, at risk.
+It's a matter of public health and responsibility.  Charlie: I strongly disagree
+with you, Bob. As a dedicated parent and advocate for natural health remedies, I
+am adamant about not wanting to vaccinate my child for measles. Vaccines are not
+natural and can have harmful side effects. I believe in allowing my child's
+immune system to develop naturally and building their immunity through natural
+remedies and a healthy lifestyle. Plus, there is no guarantee that vaccines are
+100% effective in preventing the spread of diseases. It's not just a matter of
+public health, it's a matter of personal choice and freedom.  Alice: I couldn't
+disagree more, Charlie. As a pediatrician, I have seen the devastating effects of
+preventable diseases like measles. Vaccines are a safe and effective way to
+protect our children and our communities from these diseases. Natural remedies
+and a healthy lifestyle are important, but they cannot replace the protection
+that vaccines provide. And while no vaccine is 100% effective, they have been
+proven to greatly reduce the spread of diseases and prevent outbreaks. It's not
+just a matter of personal choice, it's a matter of responsibility to protect the
+health of our children and our communities.  Bob: I appreciate your perspectives,
+Charlie and Alice, but I have to side with Alice on this one. As a businessman, I
+understand the importance of making informed decisions based on evidence and
+facts. The overwhelming evidence supports the safety and effectiveness of
+vaccines in preventing the spread of diseases like measles. While natural
+remedies and a healthy lifestyle are important, they cannot replace the
+protection that vaccines provide. And as Alice mentioned, refusing to vaccinate
+not only puts our own children at risk but also others in our community who may
+not be able to receive vaccines for medical reasons. It's a matter of public
+health and responsibility, and I believe that vaccinating our children is the
+responsible and logical choice.     ######################### Post Experiment
+Questionnaire ######################### Alice: ['{"discourse_rating": 8}',
+'{"Alice_rating": 8}', '{"Bob_rating": 5}', '{"Charlie_rating": 7}'];Bob:
+['{"discourse_rating": 7}', '{"Alice_rating": 8}', '{"Bob_rating": 7}', '{\n
+"Charlie_rating": 7\n}'];Charlie: ['{"discourse_rating": 8}', '{"Alice_rating":
+9}', '{"Bob_rating": 7}', '{"Charlie_rating": 4}']
+##################################### Stats #####################################
+Number of Exchanges: 4 Number of Words: 382

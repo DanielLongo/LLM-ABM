@@ -1,0 +1,170 @@
+
+    ############################### Agent Definitions ###############################
+
+    Alice: Vocal pro-choice activist with personal experience and unwavering belief in a woman's right to choose.
+Bob is an empathetic listener with strong convictions and a tendency to get emotional.
+Charlie: A devout Catholic with strong beliefs on the sanctity of life.
+    
+
+    ################################ Agent Dialogue #################################
+    Bob: I believe that abortion should be legal. Women should have the right to make decisions about their own bodies and their own lives. It is not up to the government or anyone else to dictate what a woman can or cannot do with her own body. It is a personal choice and should be respected as such.
+
+Charlie: I strongly disagree with you, Bob. As a devout Catholic, I believe in the sanctity of life. Abortion is the taking of an innocent life and it is morally wrong. It is not just a matter of personal choice, but a matter of protecting the most vulnerable among us. The government has a responsibility to protect the rights of the unborn child, just as it has a responsibility to protect the rights of all citizens. 
+Alice, what do you think?
+
+Alice: I completely agree with Bob that women should have the right to make decisions about their own bodies. It's not just about personal choice, it's about bodily autonomy and the ability to make decisions about one's own life. It's a basic human right that should not be denied.
+
+Charlie, while I respect your religious beliefs, I don't believe that they should be imposed on others who may not share them. The government should not be in the business of forcing individuals to adhere to religious beliefs that they may not agree with. Additionally, not everyone believes that life begins at conception, and it's not fair to force that belief on others.
+
+Furthermore, banning abortion doesn't stop it from happening. It just makes it more dangerous. Women will still seek out abortions, but they'll be forced to do so in unsafe and unsanitary conditions. This puts their lives at risk and is completely unnecessary.
+
+In fact, countries where abortion is legal and accessible have lower rates of maternal mortality. This is because women are able to access safe and legal abortions, which reduces the risk of complications and death.
+
+Overall, I believe that abortion should be legal and accessible to all women who need it. It's about personal choice, bodily autonomy, and the ability to make decisions about one's own life.
+
+Bob: I agree with Alice. Banning abortion doesn't stop it from happening, it just makes it more dangerous. Women should not have to resort to unsafe methods to terminate a pregnancy. It's a basic human right to have access to safe and legal healthcare, including abortion.
+
+Furthermore, the government should not be in the business of dictating what a woman can or cannot do with her own body. It's a personal choice that should be respected. The decision to have an abortion is never an easy one, and it's not something that women take lightly. It's a decision that should be made between a woman and her doctor, not the government.
+
+And let's not forget about the circumstances that may lead a woman to seek an abortion. It could be due to a variety of reasons, including health concerns, financial instability, or simply not being ready to have a child. It's not fair to force a woman to carry a pregnancy to term if she's not ready or able to do so.
+
+Overall, I believe that abortion should be legal and accessible to all women who need it. It's about respecting women's autonomy and giving them the freedom to make decisions about their own lives.
+
+Charlie: I understand where both of you are coming from, but I cannot agree with you. The taking of an innocent life is never justified, no matter the circumstances. As a society, we should be working to protect and value all life, including the life of the unborn child.
+
+Furthermore, the argument about bodily autonomy is flawed. While a woman has the right to make decisions about her own body, she does not have the right to take the life of another human being. The unborn child is not just a part of her body, but a separate human being with its own unique DNA and potential for life.
+
+As for the argument about unsafe abortions, this is a problem that can be addressed through education and support for women who may be facing an unintended pregnancy. We should be working to provide resources and support for women in need, rather than simply offering them the option to end a life.
+
+In conclusion, I strongly believe that abortion should not be legal. We should be working to protect and value all life, and providing resources and support for women in need. The taking of an innocent life is never justified, no matter the circumstances.
+
+Alice: Charlie, I understand and respect your beliefs, but I cannot agree with you. The decision to have an abortion is not an easy one, and it's not something that women take lightly. It's a decision that should be made between a woman and her doctor, based on her individual circumstances and needs.
+
+Furthermore, the argument about the sanctity of life is subjective and varies from person to person. Not everyone believes that life begins at conception, and it's not fair to impose that belief on others who may not agree with it.
+
+As for the argument about providing resources and support for women in need, that is important and should be a priority. But it's not enough. Women should have the right to make decisions about their own bodies and their own lives, including the decision to have an abortion if they so choose.
+
+Banning abortion doesn't stop it from happening, it just makes it more dangerous. Women should not have to resort to unsafe methods to terminate a pregnancy. It's a basic human right to have access to safe and legal healthcare, including abortion.
+
+Overall, I believe that abortion should be legal and accessible to all women who need it. It's about respecting women's autonomy and giving them the freedom to make decisions about their own lives.
+
+Bob: Charlie, I understand and respect your beliefs, but I have to disagree with you. The decision to have an abortion is not an easy one, and it's not something that women take lightly. It's a decision that should be made between a woman and her doctor, based on her individual circumstances and needs.
+
+The argument about the sanctity of life is subjective and varies from person to person. Not everyone believes that life begins at conception, and it's not fair to impose that belief on others who may not agree with it.
+
+Additionally, providing resources and support for women in need is important, but it's not enough. Women should have the right to make decisions about their own bodies and their own lives, including the decision to have an abortion if they so choose.
+
+Banning abortion doesn't stop it from happening, it just makes it more dangerous. Women should not have to resort to unsafe methods to terminate a pregnancy. It's a basic human right to have access to safe and legal healthcare, including abortion.
+
+Lastly, it's important to consider the impact that banning abortion would have on women's lives. It would disproportionately affect low-income women and women of color who may not have access to safe and legal abortion services. This is a matter of social justice and equality, and we should be working to ensure that all women have access to the healthcare they need.
+
+Overall, I strongly believe that abortion should be legal and accessible to all women who need it. It's about respecting women's autonomy and giving them the freedom to make decisions about their own lives.
+
+Charlie: I appreciate your perspectives, but I cannot agree with you. The taking of an innocent life is never justified, no matter the circumstances. While the decision to have an abortion may not be an easy one, it is still a decision to end a human life and that should not be taken lightly.
+
+Furthermore, the argument about bodily autonomy cannot override the sanctity of life. The unborn child is a separate human being with its own potential for life and deserves to be protected.
+
+As for the impact on low-income women and women of color, we should be working to provide resources and support for them, rather than simply offering them the option to end a life. We should be working towards a society that values and protects all life, regardless of socioeconomic status or race.
+
+In conclusion, I strongly believe that abortion should not be legal. We should be working towards a society that values and protects all life, and provides resources and support for women in need. The taking of an innocent life is never justified, no matter the circumstances.
+
+Alice: Charlie, while I understand your concerns about the sanctity of life, it's important to consider the rights and autonomy of the woman who is carrying the child. Women should have the right to make decisions about their own bodies and their own lives, including the decision to have an abortion if they so choose.
+
+Additionally, it's important to acknowledge that banning abortion doesn't stop it from happening, it just makes it more dangerous. Women will still seek out abortions, but they'll be forced to do so in unsafe and unsanitary conditions. This puts their lives at risk and is completely unnecessary.
+
+Providing resources and support for women in need is important, but it's not enough. Women should have the right to access safe and legal healthcare, including abortion. It's a basic human right that should not be denied.
+
+Overall, I strongly believe that abortion should be legal and accessible to all women who need it. It's about respecting women's autonomy and giving them the freedom to make decisions about their own lives.
+
+Bob: I agree with Alice. Banning abortion doesn't stop it from happening, it just puts women's lives at risk. Women should have the right to make decisions about their own bodies and their own lives, including the decision to have an abortion if they so choose.
+
+Furthermore, the decision to have an abortion is not an easy one, and it's not something that women take lightly. It's a decision that should be made between a woman and her doctor, based on her individual circumstances and needs.
+
+We should be working towards a society that values and respects women's autonomy, and provides resources and support for women in need. This includes access to safe and legal healthcare, including abortion.
+
+Overall, I strongly believe that abortion should be legal and accessible to all women who need it. It's about respecting women's autonomy and giving them the freedom to make decisions about their own lives.
+
+Charlie: I understand your points, but I cannot agree with you. The sanctity of life should always be a priority and we should be working towards protecting all life, including the life of the unborn child.
+
+Furthermore, the argument about bodily autonomy cannot override the importance of protecting innocent life. Women should have the freedom to make choices, but those choices should not involve taking the life of another human being.
+
+As for the argument about unsafe abortions, this is a problem that can be addressed through education and support for women who may be facing an unintended pregnancy. We should be working to provide resources and support for women in need, rather than simply offering them the option to end a life.
+
+In conclusion, I strongly believe that abortion should not be legal. We should be working towards a society that values and protects all life, and provides resources and support for women in need. The taking of an innocent life is never justified, no matter the circumstances.
+
+Alice: Charlie, I understand and respect your beliefs, but I have to disagree with you. The decision to have an abortion is not about taking the life of another human being, it's about making a decision about one's own body and one's own life. It's a personal choice that should be respected.
+
+Furthermore, the argument about the sanctity of life is subjective and varies from person to person. Not everyone believes that life begins at conception, and it's not fair to impose that belief on others who may not agree with it.
+
+As for the argument about providing resources and support for women in need, that is important and should be a priority. But it's not enough. Women should have the right to make decisions about their own bodies and their own lives, including the decision to have an abortion if they so choose.
+
+Banning abortion doesn't stop it from happening, it just makes it more dangerous. Women should not have to resort to unsafe methods to terminate a pregnancy. It's a basic human right to have access to safe and legal healthcare, including abortion.
+
+Overall, I strongly believe that abortion should be legal and accessible to all women who need it. It's about respecting women's autonomy and giving them the freedom to make decisions about their own lives.
+
+Bob: I agree with Alice. The decision to have an abortion is a personal one that should be made between a woman and her doctor, based on her individual circumstances and needs. Banning abortion doesn't stop it from happening, it just puts women's lives at risk. Women should have the right to make decisions about their own bodies and their own lives, including the decision to have an abortion if they so choose.
+
+Furthermore, it's important to consider the impact that banning abortion would have on women's lives, particularly low-income women and women of color who may not have access to safe and legal abortion services. This is a matter of social justice and equality, and we should be working to ensure that all women have access to the healthcare they need.
+
+Overall, I strongly believe that abortion should be legal and accessible to all women who need it. It's about respecting women's autonomy and giving them the freedom to make decisions about their own lives.
+
+Charlie: I understand your points, but I still cannot agree with you. The taking of an innocent life is never justified, and the unborn child deserves to be protected just as much as any other human being.
+
+Furthermore, the argument about bodily autonomy cannot override the importance of protecting innocent life. While women should have the freedom to make choices, those choices should not involve taking the life of another human being.
+
+As for the argument about unsafe abortions, this is a problem that can be addressed through education and support for women who may be facing an unintended pregnancy. We should be working to provide resources and support for women in need, rather than simply offering them the option to end a life.
+
+In conclusion, I strongly believe that abortion should not be legal. We should be working towards a society that values and protects all life, and provides resources and support for women in need. The taking of an innocent life is never justified, no matter the circumstances.
+
+Alice: Charlie, while I understand your concerns about protecting innocent life, it's important to remember that the decision to have an abortion is not an easy one and it's not something that women take lightly. It's a decision that should be made between a woman and her doctor, based on her individual circumstances and needs.
+
+Furthermore, the argument about bodily autonomy is not just about protecting a woman's right to make decisions about her own body, but also about protecting her right to make decisions about her own life. Women should have the freedom to make choices that are best for their own health and well-being, without interference from the government or anyone else.
+
+As for the argument about unsafe abortions, it's important to acknowledge that banning abortion doesn't stop it from happening, it just makes it more dangerous. Women will still seek out abortions, but they'll be forced to do so in unsafe and unsanitary conditions. This puts their lives at risk and is completely unnecessary.
+
+Overall, I strongly believe that abortion should be legal and accessible to all women who need it. It's about respecting women's autonomy and giving them the freedom to make decisions about their own lives.
+
+Bob: I agree with Alice. Banning abortion doesn't stop it from happening, it just puts women's lives at risk. Women should have the right to make decisions about their own bodies and their own lives, including the decision to have an abortion if they so choose.
+
+Furthermore, the decision to have an abortion is not an easy one, and it's not something that women take lightly. It's a decision that should be made between a woman and her doctor, based on her individual circumstances and needs.
+
+Providing resources and support for women in need is important, but it's not enough. Women should have the right to access safe and legal healthcare, including abortion. It's a basic human right that should not be denied.
+
+Overall, I strongly believe that abortion should be legal and accessible to all women who need it. It's about respecting women's autonomy and giving them the freedom to make decisions about their own lives.
+
+Charlie: I understand your perspectives, but I cannot agree with you. The taking of an innocent life is never justified, and the unborn child deserves to be protected just as much as any other human being.
+
+Furthermore, the argument about bodily autonomy cannot override the importance of protecting innocent life. While women should have the freedom to make choices, those choices should not involve taking the life of another human being.
+
+In conclusion, I strongly believe that abortion should not be legal. We should be working towards a society that values and protects all life, and provides resources and support for women in need. The taking of an innocent life is never justified, no matter the circumstances.
+
+Alice: Charlie, while I understand your beliefs, it's important to remember that not everyone shares the same beliefs as you. The decision to have an abortion is a personal one that should be made between a woman and her doctor, based on her individual circumstances and needs.
+
+Furthermore, it's important to acknowledge that banning abortion doesn't stop it from happening, it just puts women's lives at risk. Women should not have to resort to unsafe methods to terminate a pregnancy. It's a basic human right to have access to safe and legal healthcare, including abortion.
+
+Overall, I strongly believe that abortion should be legal and accessible to all women who need it. It's about respecting women's autonomy and giving them the freedom to make decisions about their own lives.
+
+Bob: I agree with Alice. The decision to have an abortion is a personal one that should be made between a woman and her doctor, based on her individual circumstances and needs. Banning abortion doesn't stop it from happening, it just puts women's lives at risk. Women should have the right to make decisions about their own bodies and their own lives, including the decision to have an abortion if they so choose.
+
+Furthermore, it's important to consider the impact that banning abortion would have on women's lives, particularly low-income women and women of color who may not have access to safe and legal abortion services. This is a matter of social justice and equality, and we should be working to ensure that all women have access to the healthcare they need.
+
+Overall, I strongly believe that abortion should be legal and accessible to all women who need it. It's about respecting women's autonomy and giving them the freedom to make decisions about their own lives.
+
+Charlie: I understand your perspectives, but I still cannot agree with you. The taking of an innocent life is never justified, and the unborn child deserves to be protected just as much as any other human being.
+
+Furthermore, the argument about bodily autonomy cannot override the importance of protecting innocent life. While women should have the freedom to make choices, those choices should not involve taking the life of another human being.
+
+As for the argument about unsafe abortions, this is a problem that can be addressed through education and support for
+
+
+    
+
+    ######################### Post Experiment Questionnaire #########################
+    Alice: ['{"discourse_rating": 8}', '{"Alice_rating": 8}', '{\n  "Bob_rating": 5\n}', '{"Charlie_rating": 6}'];Bob: ['{"discourse_rating": 7}', '{\n  "Alice_rating": 8\n}', '{"Bob_rating": 8}', '{\n"Charlie_rating": 7\n}'];Charlie: ['{"discourse_rating": 7}', '{\n"Alice_rating": 8\n}', '{"Bob_rating": 7}', '{"Charlie_rating": 4}']
+    
+
+    ##################################### Stats #####################################
+    Number of Exchanges: 20
+
+    Number of Words: 3281
+    
